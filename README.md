@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik-k3
+- 👋 Hi, I’m @kartik-k3.com
 - 👀 I’m interested in Web Development & Web Design.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 📫 How to reach me kartikkewalramani8+work@gmail.com
