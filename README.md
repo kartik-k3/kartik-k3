@@ -1,6 +1,6 @@
 <img align="right" src="https://i.imgur.com/hDREc0V.gif">
 - 👋 Hi, I’m @kartik-k3<br>
-- 👀 I’m interested in Web Development & We Design.<br>
+- 👀 I’m interested in Web Development & Web Design.<br>
 - 🌱 I’m currently learning Full Stack Web Development.<br>
 - 📫 How to reach me: <a href="mailto:kartikkewalramani8+work@gmail.com">kartikkewalramani8+work@gmail.com</a>
 <!---
